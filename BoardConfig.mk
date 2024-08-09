@@ -27,10 +27,10 @@
 -include $(COMMON_PATH)/BoardConfigCommon.mk
 
 # Recovery
-TARGET_OTA_ASSERT_DEVICE := waffle
+TARGET_OTA_ASSERT_DEVICE := caihong
 
 # TWRP specific build flags
-TW_FRAMERATE := 120
+TW_FRAMERATE := 144
 
 # Vibrator
 TW_SUPPORT_INPUT_AIDL_HAPTICS := true
